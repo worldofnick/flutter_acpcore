@@ -19,7 +19,7 @@
 
 Install instructions for this package can be found [here](https://pub.dev/packages/flutter_acpcore#-installing-tab-).
 
-> Note: After you have installed the SDK, don't forget to run `pod install` in your `ios` directory to link the libraries to your Xcode project.
+> Note: After you have installed the SDK, don't forget to run `pod install` in your `ios` directory to link the libraries to your Xcode project. The AEP SDK requires at least iOS 10.0.
 
 After you have installed Core, you can install additional AEP Flutter extensions.
 
